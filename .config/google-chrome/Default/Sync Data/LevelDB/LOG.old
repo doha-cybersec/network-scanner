@@ -1,5 +1,0 @@
-2025/11/06-12:24:20.862 15fa Creating DB /home/doha/.config/google-chrome/Default/Sync Data/LevelDB since it was missing.
-2025/11/06-12:24:20.918 15fa Reusing MANIFEST /home/doha/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
-2025/11/06-18:02:55.110 1609 Level-0 table #5: started
-2025/11/06-18:02:55.152 1609 Level-0 table #5: 138459 bytes OK
-2025/11/06-18:02:55.170 1609 Delete type=0 #3
