@@ -1,0 +1,32 @@
+2025/11/06-12:24:24.834 5 Creating DB /home/doha/.config/google-chrome/Default/Session Storage since it was missing.
+2025/11/06-12:24:24.860 5 Reusing MANIFEST /home/doha/.config/google-chrome/Default/Session Storage/MANIFEST-000001
+2025/11/06-21:16:54.384 5 Level-0 table #5: started
+2025/11/06-21:16:54.402 5 Level-0 table #5: 73843 bytes OK
+2025/11/06-21:16:54.414 5 Delete type=0 #3
+2025/11/06-21:17:01.763 7 Level-0 table #7: started
+2025/11/06-21:17:01.797 7 Level-0 table #7: 32480 bytes OK
+2025/11/06-21:17:01.848 7 Delete type=0 #4
+2025/11/06-21:18:02.169 7 Level-0 table #9: started
+2025/11/06-21:18:02.199 7 Level-0 table #9: 307599 bytes OK
+2025/11/06-21:18:02.210 7 Delete type=0 #6
+2025/11/06-21:18:08.162 5 Level-0 table #11: started
+2025/11/06-21:18:08.190 5 Level-0 table #11: 595887 bytes OK
+2025/11/06-21:18:08.198 5 Delete type=0 #8
+2025/11/06-21:18:41.945 5 Level-0 table #13: started
+2025/11/06-21:18:41.979 5 Level-0 table #13: 326471 bytes OK
+2025/11/06-21:18:41.986 5 Delete type=0 #10
+2025/11/06-21:18:47.996 7 Level-0 table #15: started
+2025/11/06-21:18:48.020 7 Level-0 table #15: 469867 bytes OK
+2025/11/06-21:18:48.030 7 Delete type=0 #12
+2025/11/06-21:18:48.032 7 Compacting 4@0 + 1@1 files
+2025/11/06-21:18:48.062 7 Generated table #16@0: 111 keys, 1723286 bytes
+2025/11/06-21:18:48.062 7 Compacted 4@0 + 1@1 files => 1723286 bytes
+2025/11/06-21:18:48.070 7 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/11/06-21:18:48.073 7 Delete type=2 #11
+2025/11/06-21:18:48.073 7 Delete type=2 #15
+2025/11/06-21:18:48.073 7 Delete type=2 #7
+2025/11/06-21:18:48.073 7 Delete type=2 #9
+2025/11/06-21:18:48.073 7 Delete type=2 #13
+2025/11/06-21:19:48.353 7 Level-0 table #18: started
+2025/11/06-21:19:48.373 7 Level-0 table #18: 32114 bytes OK
+2025/11/06-21:19:48.384 7 Delete type=0 #14

@@ -1,0 +1,7 @@
+2025/12/16-13:11:21.746 28e9 Log #6: dropping 319 bytes; Corruption: missing start of fragmented record(2)
+2025/12/16-13:11:21.755 28e9 Log #6: 1545 ops saved to Table #7 OK
+2025/12/16-13:11:21.758 28e9 Archiving /home/doha/snap/opera/416/.config/opera/Default/Local Extension Settings/enegjkbbakeegngfapepobipndnebkdk/000006.log: OK
+2025/12/16-13:11:21.762 28e9 Table #4: 1273 entries OK
+2025/12/16-13:11:21.764 28e9 Table #7: 1545 entries OK
+2025/12/16-13:11:21.764 28e9 Archiving /home/doha/snap/opera/416/.config/opera/Default/Local Extension Settings/enegjkbbakeegngfapepobipndnebkdk/MANIFEST-000001: OK
+2025/12/16-13:11:21.769 28e9 **** Repaired leveldb /home/doha/snap/opera/416/.config/opera/Default/Local Extension Settings/enegjkbbakeegngfapepobipndnebkdk; recovered 2 files; 340434 bytes. Some data may have been lost. ****

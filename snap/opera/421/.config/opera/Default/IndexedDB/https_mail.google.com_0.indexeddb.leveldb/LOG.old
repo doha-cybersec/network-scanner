@@ -1,0 +1,12 @@
+2025/12/11-13:52:41.130 22ef Reusing MANIFEST /home/doha/snap/opera/413/.config/opera/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/12/11-13:52:41.130 22ef Recovering log #4
+2025/12/11-13:52:41.154 22ef Reusing old log /home/doha/snap/opera/413/.config/opera/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000004.log 
+2025/12/11-13:52:48.069 22ef Level-0 table #8: started
+2025/12/11-13:52:48.198 22ef Level-0 table #8: 3183425 bytes OK
+2025/12/11-13:52:48.230 22ef Delete type=0 #4
+2025/12/11-13:52:51.918 22f1 Compacting 1@1 + 1@2 files
+2025/12/11-13:52:51.953 22f1 Generated table #9@1: 109 keys, 298023 bytes
+2025/12/11-13:52:51.953 22f1 Compacted 1@1 + 1@2 files => 298023 bytes
+2025/12/11-13:52:51.962 22f1 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/12/11-13:52:51.963 22f1 Delete type=2 #5
+2025/12/11-13:52:51.963 22f1 Delete type=2 #8

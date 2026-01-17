@@ -1,0 +1,47 @@
+2025/12/16-12:43:11.019 15fa Reusing MANIFEST /home/doha/snap/opera/416/.config/opera/Default/IndexedDB/https_tryhackme.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/12/16-12:43:11.019 15fa Recovering log #152
+2025/12/16-12:43:11.019 15fa Reusing old log /home/doha/snap/opera/416/.config/opera/Default/IndexedDB/https_tryhackme.com_0.indexeddb.leveldb/000152.log 
+2025/12/16-12:43:11.019 15fa Delete type=2 #151
+2025/12/16-12:43:15.457 1638 Level-0 table #157: started
+2025/12/16-12:43:15.466 1638 Level-0 table #157: 500 bytes OK
+2025/12/16-12:43:15.479 1638 Delete type=0 #152
+2025/12/16-12:43:15.480 15f9 Manual compaction at level-0 from '\x006\x00\x00\x00' @ 72057594037927935 : 1 .. '\x007\x00\x00\x00' @ 0 : 0; will stop at '\x006\x00\x00\x05' @ 1117 : 1
+2025/12/16-12:43:15.480 15f9 Compacting 1@0 + 1@1 files
+2025/12/16-12:43:15.492 15f9 Generated table #158@0: 180 keys, 2135 bytes
+2025/12/16-12:43:15.493 15f9 Compacted 1@0 + 1@1 files => 2135 bytes
+2025/12/16-12:43:15.507 15f9 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/12/16-12:43:15.508 15f9 Delete type=2 #157
+2025/12/16-12:43:15.508 15f9 Manual compaction at level-0 from '\x006\x00\x00\x05' @ 1117 : 1 .. '\x007\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/12/16-12:43:15.622 15fb Level-0 table #160: started
+2025/12/16-12:43:15.635 15fb Level-0 table #160: 520 bytes OK
+2025/12/16-12:43:15.646 15fb Delete type=0 #156
+2025/12/16-12:43:15.646 15fb Delete type=2 #154
+2025/12/16-12:43:15.648 15f9 Manual compaction at level-0 from '\x007\x00\x00\x00' @ 72057594037927935 : 1 .. '\x008\x00\x00\x00' @ 0 : 0; will stop at '\x007\x00\x00\x05' @ 1133 : 1
+2025/12/16-12:43:15.648 15f9 Compacting 1@0 + 1@1 files
+2025/12/16-12:43:15.658 15f9 Generated table #161@0: 180 keys, 2134 bytes
+2025/12/16-12:43:15.658 15f9 Compacted 1@0 + 1@1 files => 2134 bytes
+2025/12/16-12:43:15.674 15f9 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/12/16-12:43:15.675 15f9 Delete type=2 #160
+2025/12/16-12:43:15.677 15f9 Manual compaction at level-0 from '\x007\x00\x00\x05' @ 1133 : 1 .. '\x008\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/12/16-12:43:20.864 15f9 Level-0 table #163: started
+2025/12/16-12:43:20.872 15f9 Level-0 table #163: 510 bytes OK
+2025/12/16-12:43:20.883 15f9 Delete type=2 #158
+2025/12/16-12:43:20.884 15f9 Delete type=0 #159
+2025/12/16-12:43:20.884 15df Manual compaction at level-0 from '\x008\x00\x00\x00' @ 72057594037927935 : 1 .. '\x009\x00\x00\x00' @ 0 : 0; will stop at '\x008\x00\x00\x05' @ 1153 : 1
+2025/12/16-12:43:20.884 15df Compacting 1@0 + 1@1 files
+2025/12/16-12:43:20.892 15df Generated table #164@0: 180 keys, 2134 bytes
+2025/12/16-12:43:20.892 15df Compacted 1@0 + 1@1 files => 2134 bytes
+2025/12/16-12:43:20.902 15df compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/12/16-12:43:20.903 15df Delete type=2 #163
+2025/12/16-12:43:20.903 15df Manual compaction at level-0 from '\x008\x00\x00\x05' @ 1153 : 1 .. '\x009\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/12/16-12:43:20.962 15f9 Level-0 table #166: started
+2025/12/16-12:43:20.979 15f9 Level-0 table #166: 502 bytes OK
+2025/12/16-12:43:20.990 15f9 Delete type=0 #162
+2025/12/16-12:43:20.990 15f9 Delete type=2 #161
+2025/12/16-12:43:20.990 15df Manual compaction at level-0 from '\x009\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00:\x00\x00\x00' @ 0 : 0; will stop at '\x009\x00\x00\x05' @ 1169 : 1
+2025/12/16-12:43:20.990 15df Compacting 1@0 + 1@1 files
+2025/12/16-12:43:20.999 15df Generated table #167@0: 180 keys, 2140 bytes
+2025/12/16-12:43:20.999 15df Compacted 1@0 + 1@1 files => 2140 bytes
+2025/12/16-12:43:21.012 15df compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/12/16-12:43:21.012 15df Delete type=2 #166
+2025/12/16-12:43:21.013 15df Manual compaction at level-0 from '\x009\x00\x00\x05' @ 1169 : 1 .. '\x00:\x00\x00\x00' @ 0 : 0; will stop at (end)

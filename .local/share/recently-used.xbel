@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///media/doha/VBox_GAs_7.0.20/VBoxLinuxAdditions.run" added="2025-09-27T14:19:13.015331Z" modified="2025-09-27T14:19:13.015338Z" visited="2025-09-27T14:19:13.015332Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2025-09-27T14:19:13.015335Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/doha/VBox_GAs_7.0.20" added="2025-09-27T14:22:58.941465Z" modified="2025-09-27T14:22:58.941470Z" visited="2025-09-27T14:22:58.941466Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;nautilus-autorun-software %u&apos;" modified="2025-09-27T14:22:58.941468Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/doha/newfile/doha" added="2025-09-27T21:09:36.765771Z" modified="2025-09-27T21:09:36.765775Z" visited="2025-09-27T21:09:36.765772Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-zerosize"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2025-09-27T21:09:36.765774Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/doha/annee3" added="2025-10-09T15:15:55.239211Z" modified="2025-10-09T15:15:55.239215Z" visited="2025-10-09T15:15:55.239211Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-zerosize"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2025-10-09T15:15:55.239213Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/doha/annee4" added="2025-10-09T15:16:01.799349Z" modified="2025-10-09T15:16:01.799354Z" visited="2025-10-09T15:16:01.799350Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-zerosize"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2025-10-09T15:16:01.799351Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/doha/annee45" added="2025-10-09T15:16:11.608926Z" modified="2025-10-09T15:16:11.608932Z" visited="2025-10-09T15:16:11.608927Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-zerosize"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2025-10-09T15:16:11.608929Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/doha/inventaire.txt" added="2025-10-16T14:00:18.172558Z" modified="2025-10-23T14:14:14.756289Z" visited="2025-10-16T14:00:18.172558Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2025-10-23T14:14:14.756283Z" count="12"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/doha/Downloads/google-chrome-stable_current_amd64.deb" added="2025-10-23T13:47:34.081780Z" modified="2025-11-07T13:07:23.900798Z" visited="2025-10-23T13:47:34.081780Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.debian.binary-package"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;/snap/bin/snap-store %U&apos;" modified="2025-11-07T13:07:23.900795Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/doha/Downloads/tp2.jpeg" added="2025-10-23T15:41:23.560010Z" modified="2025-10-23T15:41:23.811421Z" visited="2025-10-23T15:41:23.560011Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2025-10-23T15:41:23.560015Z" count="1"/>
+          <bookmark:application name="snap.firefox" exec="&apos;gio open %u&apos;" modified="2025-10-23T15:41:23.811419Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/doha/Downloads/WhatsApp%20Image%202025-10-23%20at%2016.38.48(1).jpeg" added="2025-10-23T15:50:12.469464Z" modified="2025-10-23T15:51:06.544588Z" visited="2025-10-23T15:50:12.469465Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2025-10-23T15:50:12.469468Z" count="1"/>
+          <bookmark:application name="snap.firefox" exec="&apos;gio open %u&apos;" modified="2025-10-23T15:51:06.537337Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2025-10-23T15:51:06.544583Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/doha/Downloads/chap%20admin.pdf%20-%20Lumin%20_%20Lumin%20PDF%20Editor.html" added="2025-11-07T14:20:12.974363Z" modified="2025-12-16T12:08:36.706591Z" visited="2025-11-07T14:20:12.974365Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2025-11-07T14:20:12.974368Z" count="1"/>
+          <bookmark:application name="snap.opera" exec="&apos;gio open %u&apos;" modified="2025-11-07T14:20:13.224191Z" count="1"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;/usr/bin/google-chrome-stable %U&apos;" modified="2025-12-16T12:08:36.706570Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/doha/rapport.html" added="2025-11-07T14:51:07.249572Z" modified="2025-11-07T14:51:08.452713Z" visited="2025-11-07T14:51:07.249573Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/xhtml+xml"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;/snap/bin/firefox %u&apos;" modified="2025-11-07T14:51:08.452710Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/doha/Desktop/dfdb30adaf25f1b20cad470f8e00d25ab601d3c2.pdf" added="2025-11-13T12:05:12.627235Z" modified="2025-11-22T11:19:10.927956Z" visited="2025-11-13T12:05:12.627238Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2025-11-22T11:19:10.927954Z" count="3"/>
+          <bookmark:application name="snap.opera" exec="&apos;gio open %u&apos;" modified="2025-11-13T13:02:41.364191Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2025-11-13T13:02:41.368122Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/doha/Downloads/WhatsApp%20Image%202025-11-13%20at%2014.05.47.jpeg" added="2025-11-13T13:49:51.854993Z" modified="2025-11-13T13:49:52.287561Z" visited="2025-11-13T13:49:51.854994Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;eog %U&apos;" modified="2025-11-13T13:49:51.854995Z" count="1"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2025-11-13T13:49:52.287560Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/doha/Desktop/8.%20Gestion%20des%20droits%20d&apos;acces.pdf" added="2025-11-20T13:18:03.797579Z" modified="2025-11-22T13:21:54.939058Z" visited="2025-11-20T13:18:03.797580Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2025-11-22T13:21:54.939056Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/doha/Downloads/7.%20Gestion%20des%20utilisateurs%20et%20groupes%20(1).pdf" added="2025-11-22T13:23:46.739165Z" modified="2025-11-22T13:23:46.739168Z" visited="2025-11-22T13:23:46.739165Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2025-11-22T13:23:46.739166Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/doha/Desktop/7.%20Gestion%20des%20utilisateurs%20et%20groupes%20(1).pdf" added="2025-11-22T13:24:28.199878Z" modified="2025-11-22T13:24:28.199882Z" visited="2025-11-22T13:24:28.199879Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2025-11-22T13:24:28.199880Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/doha/Desktop/ubuntu_simulation%20(1).pdf" added="2025-11-26T18:46:56.297546Z" modified="2025-11-26T18:46:56.297552Z" visited="2025-11-26T18:46:56.297547Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2025-11-26T18:46:56.297549Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/doha/Desktop/9.%20Introduction%20au%20diagnostic%20reseaux.pdf" added="2025-11-27T13:01:04.001951Z" modified="2025-11-30T16:39:51.115185Z" visited="2025-11-27T13:01:04.001952Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2025-11-30T16:39:51.115182Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/doha/Desktop/10.%20Securite%20du%20reseau.pdf" added="2025-12-04T12:58:46.314934Z" modified="2025-12-04T12:58:46.314941Z" visited="2025-12-04T12:58:46.314935Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2025-12-04T12:58:46.314939Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/doha/Desktop/11.%20Maintenance%20des%20systemes.pdf" added="2025-12-11T14:56:33.034352Z" modified="2025-12-16T11:40:42.206303Z" visited="2025-12-11T14:56:33.034354Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2025-12-16T11:40:42.206301Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/doha/Downloads/chap%20admin.pdf%20-%20Lumin%20_%20Lumin%20PDF%20Editor_files/collectedforms.js" added="2025-12-16T12:08:15.323186Z" modified="2025-12-16T12:08:15.323194Z" visited="2025-12-16T12:08:15.323187Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/javascript"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2025-12-16T12:08:15.323192Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

@@ -1,0 +1,1 @@
+(()=>{"use strict";chrome.runtime.onMessage.addListener(function(e){"open_tab"===e.action&&chrome.tabs.create({url:e.url})})})();

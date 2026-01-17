@@ -1,0 +1,70 @@
+{
+  "Version": "24.04",
+  "OEM": {
+    "Vendor": "innotek GmbH",
+    "Product": "VirtualBox",
+    "Family": "Virtual Machine"
+  },
+  "BIOS": {
+    "Vendor": "innotek GmbH",
+    "Version": "VirtualBox"
+  },
+  "Arch": "amd64",
+  "HwCap": "x86-64-v2",
+  "GPU": [
+    {
+      "Vendor": "15ad",
+      "Model": "0405"
+    }
+  ],
+  "RAM": 9,
+  "Disks": [
+    32.5
+  ],
+  "Partitions": [
+    17.4
+  ],
+  "Screens": [
+    {
+      "Size": "0mmx0mm",
+      "Resolution": "1280x800",
+      "Frequency": "59.81"
+    }
+  ],
+  "Autologin": false,
+  "LivePatch": false,
+  "Session": {
+    "DE": "ubuntu:GNOME",
+    "Name": "ubuntu",
+    "Type": "wayland"
+  },
+  "Language": "en_US",
+  "Timezone": "Africa/Casablanca",
+  "Install": {
+    "Type": "Flutter",
+    "OEM": false,
+    "Media": "Ubuntu 24.04.3 LTS",
+    "Stages": {
+      "3": "locale",
+      "9": "accessibility",
+      "11": "keyboard",
+      "13": "network",
+      "14": "refresh",
+      "17": "tryOrInstall",
+      "18": "autoinstall",
+      "19": "sourceSelection",
+      "20": "codecsAndDrivers",
+      "27": "storage",
+      "39": "identity",
+      "57": "timezone",
+      "59": "confirm",
+      "61": "install",
+      "1522": "done"
+    },
+    "Language": "en",
+    "Minimal": true,
+    "RestrictedAddons": false,
+    "PartitionMethod": "resize_use_free",
+    "UseActiveDirectory": false
+  }
+}

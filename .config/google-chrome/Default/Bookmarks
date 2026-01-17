@@ -1,0 +1,81 @@
+{
+   "checksum": "588d45df3ed70de0964e92ebe2f7ee7b",
+   "roots": {
+      "bookmark_bar": {
+         "children": [  ],
+         "date_added": "13406901860861888",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13406312729867920",
+            "date_last_used": "0",
+            "guid": "8e42eb21-21be-492e-8a60-669461fb1e38",
+            "id": "5",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Cahier des charges vs dictionnaire de données",
+            "type": "url",
+            "url": "https://chatgpt.com/c/68f6b297-08b4-8326-bc6e-147c54ac6cc3"
+         }, {
+            "date_added": "13406465227244477",
+            "date_last_used": "0",
+            "guid": "de842080-5908-4a8f-8aa7-96156ebfdc01",
+            "id": "6",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Exercices Python: Listes et Dictionnaires | PDF | Structure de contrôle | Python (Langage de programmation)",
+            "type": "url",
+            "url": "https://fr.scribd.com/document/805026409/Python-Td3-Escep-l3-082253"
+         }, {
+            "date_added": "13406465285022718",
+            "date_last_used": "0",
+            "guid": "f11f1b91-7b3a-4d98-8f0d-5ae17504b0b2",
+            "id": "7",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "TD Listes-Tuples-Dictionnaires | PDF | Dictionnaire | Programmation informatique",
+            "type": "url",
+            "url": "https://fr.scribd.com/document/700462266/TD-Listes-tuples-dictionnaires"
+         }, {
+            "date_added": "13406465429368494",
+            "date_last_used": "0",
+            "guid": "b923205a-4d35-45eb-b69f-05dd70d214b3",
+            "id": "8",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Fiche Recursivité2020 | PDF | Algorithmes et structures de données | Algorithmes",
+            "type": "url",
+            "url": "https://fr.scribd.com/document/795525683/fiche-recursivite2020"
+         } ],
+         "date_added": "13406901860861888",
+         "date_last_used": "0",
+         "date_modified": "13406465429368494",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13406901860861888",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CnAKUAiIgQISSiAAkgE2CjQKDmNocm9tZV9zeW5jX2JtEgU1MSFibRoSCaYEWXDrQgYAEaYEWXDrQgYAKRiiWXDrQgYA6gEMCJ2PssgGEIDd3aEDEgAqGElxNUttZStON0xiMGlKeFQzYTJHVWc9PUgDEqsBCAESpgEKHHl4Si82ZnZrZWNyN2twNUVRekI0dFdMcGRiRT0STlo6QURxdEFad0JBMUZZZVRQcHpEN2JObmdTNEFiUGNzc3pwZEd0bUJPR2IxVGhNSzV1YnZDZG9zM3ptMjBSNjVJRjZ5ck9LK0YxbktXVRgAIAAoADDr1eX/4daPAzgAQABKHGFSQ1dMZ2hGOWI1SW5xS0lEdnVKL2p2UWtGYz1aAGUAAAAAEuwBCAgS5wEKHGlCMllkTFZLRWlTTkpBdGd5VXNhaHphYXJDUT0SZlo6QURxdEFaeGJ2alpkZjRNdjNvL3ZTMTNiYXpiWHczVjdWdGxzUGlwNmZEaXVMS214czZPYlpXYWx4SDBoNTBlOHQ5cmg3aHl6bUJUUi9mMWF4NHlWV1dLcHlyZGJ0cmtWV2c9PRgAIAAoADD2mICJ29CQAzj4zpb3ozNA+M6W96MzShw2YlJDVW1yQTJBM05FVVJCd25SZjJzeWJvVGs9Wh8iHeoxU1BWNG5sMnNac0xNR1k3WkI1czY1QnlrSVE9ZXgrF7AS7AEIBhLnAQocQkR4U1BXa2ZUYjNRV28vWlllT3U1MThXY3hNPRJmWjpBRHF0QVp4YnZqWmRmNE12M28vdlMxM2JhemJYSDRxUFgwR1d5M01YT2NINVVxcnNCZExPWHZEVXpIdXNINjVzUkVuSVJ0OXRUQ3A2VDhURWJ0VUdSZi9PUENPVzduWDBsdz09GAAgACgAMMOkz6ja0JADOOyjivejM0Dso4r3ozNKHE9sSGtoYW9sb09HditTa1UranUyOVlJUEI5TT1aHyIdqlByZ2Q2cnl1K3V3TWJmcmxFRExFRWh4SVozVT1leCsXsBLrAQgFEuYBChx4eXc0TlBqSHlLeDdmV0dEN2QzUm9leFZXYjA9EmZaOkFEcXRBWnhidmpaZGY0TXYzby92UzEzYmF6YlhLSXVmQjlTU0NPRFdEMTRvZ3RNY2l4aWlIRklYZlpDemNTcmIvRllxUHNPL3BNdko0UXp2cHUva2NXYVpuOWRCd3pwcDZ3PT0YACABKAEw6M7bl7XdkAM4kMqurqMzQMLlqMelM0ocOXVUczNmeUpWNnVYN01vZHd3RmVmbGRwZTRNPVoeIhxVTW1kMGgrakxXVlROYjkzZnpWb3FTcUREdmM9ZfiSA9USwwEIAhK+AQocWWNTVG9udkVTUHdxQ3M0TDJjclZodjY4TDk4PRJmWjpBRHF0QVp4V1JROEg0RFpIZVJGY3hibTBPRE5tdGlXTWljR1dhY2NmclVwcW1SR0M3TlFUQXVvd1ozcmRueXVDUjY3Ryt0TG5rWml4Yk9sOWhEL1k0RTFDOEpmWEZDbGl2Zz09GAAgACgAMOvV5f/h1o8DOABAAEocb1BWa2h3QlJiVjY1S0NXUjIrSU9OSFdvT3U4PVoAZQAAAAAS7AEIBxLnAQoccllsV3RGNHk5d3poZUsxbWkyanUxTi85TW1NPRJmWjpBRHF0QVp4YnZqWmRmNE12M28vdlMxM2JhemJYUEo2VlhVZTg4eTdXMElRY0g3dHFMNEhJbmJXUm9WUTdJV1RncXNuQTdaN1ZqTWVKdG1MRGRJN2pFZE1wWnBjRVZLak1jZz09GAAgACgAMPXMlcTa0JADOJ/njfejM0Cf5433ozNKHEZ4RUg1bE5scEM4QUVobU1rWklCNXg5Y3l1ST1aHyId1WFqT3BqamVUYURsemgzeHNCYXNyT0JzY1Q5Yz1leCsXsBLDAQgDEr4BChxuamdEdTg4ZUNydlhwODZwRDdmSEdjcUZwODg9EmZaOkFEcXRBWnp6NEVxSStweUc2ZnR5dE5yandZN25YR2QxajREbTkwMEJGM3FDWTV2M2I3bk13OWhsTUlVSEh3ZnMvK3crRmNuL090K1VyVjh5OW9ieERrNTN3TFI5bEFKQVpBPT0YACAAKAAw69Xl/+HWjwM4AEAAShx5ek5CMDFjbjU0QTdjUlUwdVQrL1BnbVR0VW89WgBlAAAAADABOAA=",
+   "version": 1
+}

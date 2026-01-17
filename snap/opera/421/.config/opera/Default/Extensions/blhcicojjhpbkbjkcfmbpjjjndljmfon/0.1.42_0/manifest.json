@@ -1,0 +1,30 @@
+{
+   "author": "Opera Norway AS",
+   "background": {
+      "service_worker": "background.js"
+   },
+   "content_scripts": [ {
+      "all_frames": false,
+      "js": [ "index.js" ],
+      "matches": [ "chrome://startpage/*" ],
+      "run_at": "document_end"
+   } ],
+   "description": "Startpage Special Extension",
+   "developer": {
+      "name": "Opera Software"
+   },
+   "homepage_url": "https://opera.com",
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArvo9IFCIglnjNL5XhE+0lKV8+iz3RifiDukPqrH3L8r/diERb7djEiid14BOu4Gw1gWVsFmBI7NU227tn0NnkOwYdzAqGOYR7FSxcBGmhYkdmlpJHdZdvtbtqX16Y32VQuUtVfz8rtO02N/ojDI79szrGUn6TRZ3OB9yb8BAtOaJqg4us1+W7cgBlupe/1S1swlNNvG365LqiX2ABkByF/+uIUea0QQgvVsH/GZJwAUg/OgQqjHTWw619Me6fEOzGXpyUFbxFKEXx2UjBYgUHJ0fSxbELt58U9UycwLUtWm0u+o+3lUmsTKx8ZCY8uIuwiTpUuWKLSvv8vxNxkMqpwIDAQAB",
+   "manifest_version": 3,
+   "name": "opera-startpage-special",
+   "permissions": [ "browserSidebarPrivate", "feedbackPopupPrivate", "speeddialPrivate", "statsPrivate", "storage", "tabs" ],
+   "update_url": "https://extension-updates.opera.com/api/omaha/update/",
+   "version": "0.1.42",
+   "web_accessible_resources": [ {
+      "matches": [ "chrome://startpage/*" ],
+      "resources": [ "fonts/*.ttf" ]
+   }, {
+      "matches": [ "chrome://startpage/*" ],
+      "resources": [ "imgs/*" ]
+   } ]
+}
