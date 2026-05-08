@@ -1,13 +1,19 @@
-# beginner network scanner 
+#  Network Scanner — Python
 
-## description 
-A beginner-level python project that scans a local network to detect active devices using ping.
+A Python tool that scans a local network to detect active devices using ping.
 
-## Technologies 
--python
--linux
--networking basics
+## Demo
+![demo](demo.png)
 
-## how to run 
-'''bash 
-python3 network_scanner.py
+## Features
+- Detects active hosts via ping
+- Compatible Windows & Linux
+- Saves results to a timestamped .txt file
+
+## Technologies
+Python · OS · Platform
+
+## How to run
+```bash
+python network_scanner.py
+```
